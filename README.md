@@ -48,11 +48,12 @@ I have also added two additional images below that can help Citibike to determin
 
 
 **Image 6: User by Birth Dates**
-![](Images/userbybirthyear.PNG)
+
+![](Images/usersbybirthyear.PNG)
 
 Another good analysis was made to find the count of user types. The image below shows that majority of citibike users are on subscription which is great and the remainder are customers. The business can target customers to become subscribers by offering greater discounts or deals. 
 
-**Image 7: User Typess**
+**Image 7: User Types**
 ![](Images/usertypecount.PNG)
 
 
