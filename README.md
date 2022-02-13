@@ -35,4 +35,25 @@
 
 **Results:** This heatmap shows the same results are Image 4&5 emphasizing that there are more Male users than Female. This will re-inforce a good strategy for company to formualte and market their services to increase Female users in future. 
 
+**Summary:**
+
+Overall the citibike anlysis showed two important results:
+
+1. There are more Male users of Citibike as compared to Females
+2. Weekend is the most popular time for Citibike users and during weekdays they normally use bike early morning or in evening.
+
+These two results will help citibike to use their marketing soruces to focus on increasing more female users and also during weekdays increase the number of hours during afternoon and evening time. 
+
+I have also added two additional images below that can help Citibike to determine the age of users which using the bubble chart below shows that Citibike have more users with birth of 1969 which reveals that they are seniors in the age of 50's that prefer riding bikes. Also the citibike have users majority user in 30s. Determining the users will help Citibike better market to target age groups its services. 
+
+
+**Image 6: User by Birth Dates**
+![](Images/userbybirthyear.PNG)
+
+Another good analysis was made to find the count of user types. The image below shows that majority of citibike users are on subscription which is great and the remainder are customers. The business can target customers to become subscribers by offering greater discounts or deals. 
+
+**Image 7: User Typess**
+![](Images/usertypecount.PNG)
+
+
 
